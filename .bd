@@ -50,16 +50,16 @@
     {
         "type": "theme",
         "name": "Dummy Theme",
-        "version": "1.0",
+        "version": "1.2.6",
         "authors": [ 
             {
-                "discord_username": "Jiiks",
-                "discord_id": "81388395867156480",
-                "github_username": "Jiiks",
+                "discord_username": "Zerebos",
+                "discord_id": "696969",
+                "github_username": "rauenzi",
                 "github_override": false
             } 
         ],
-        "tags": [ "tag0", "tag1", "tag2" ],
+        "tags": [ "dummy", "bad", "trash" ],
         "src": "Example",
         "release": {
             "name": "Example1.bd"
